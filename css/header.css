@@ -7,9 +7,6 @@ header {
   width: 30px;
   height: 30px;
   top: 10px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  float: left;
+
   border-bottom: 1px solid #d3d6da;
 }
